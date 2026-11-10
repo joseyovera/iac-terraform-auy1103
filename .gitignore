@@ -1,0 +1,16 @@
+# Carpeta de proveedores que descarga Terraform (es pesada y se regenera)
+.terraform/
+
+# Archivos de estado: pueden contener datos sensibles
+*.tfstate
+*.tfstate.*
+
+# Archivos con valores de variables (a veces tienen claves)
+*.tfvars
+
+# Logs de errores de Terraform
+crash.log
+
+# Credenciales y llaves, por si acaso
+*.pem
+.aws/
