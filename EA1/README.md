@@ -5,6 +5,7 @@ En esta primera Experiencia de Aprendizaje se trabaja la idea central del ramo: 
 ## Actividades
 
 - [Actividad 1.1: De la consola a Terraform](actividad-1.1/README.md). Se construye la misma red en AWS dos veces: primero a mano y después con Terraform, para comparar ambos enfoques.
+- [Actividad 1.2: Primeros pasos de la infraestructura como código](actividad-1.2/README.md). Se practican los comandos básicos de Terraform y se estudia dónde se guarda el estado (backends).
 
 ## Conceptos clave de esta EA
 

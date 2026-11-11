@@ -14,3 +14,7 @@ crash.log
 # Credenciales y llaves, por si acaso
 *.pem
 .aws/
+
+# Archivos de plan guardados con -out
+myplan
+*.tfplan

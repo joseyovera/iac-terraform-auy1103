@@ -19,6 +19,7 @@ EA3/   (pendiente)
 **EA1: Fundamentos de la infraestructura como código**
 
 - [Actividad 1.1: De la consola a Terraform](EA1/actividad-1.1/README.md)
+- [Actividad 1.2: Primeros pasos de la infraestructura como código](EA1/actividad-1.2/README.md)
 
 ## Rutina de cada laboratorio
 
