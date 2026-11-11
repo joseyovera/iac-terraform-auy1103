@@ -7,7 +7,7 @@ Esta actividad profundiza en el ciclo de vida de Terraform. Primero se practican
 **EA1** · 1 hora · Individual · Indicadores IL1.1 al IL1.3
 
 - [Parte I: Comandos básicos de Terraform](1.2.2-primeros-pasos/parte-1-comandos-basicos/README.md). Ciclo completo `init → validate → plan → apply → destroy` usando el provider `random`.
-- Parte II: Backends de Terraform (estado local y en S3). *Pendiente.*
+- [Parte II: Backends de Terraform](1.2.2-primeros-pasos/parte-2-backends/README.md). Dónde se guarda el estado: primero en el PC y luego en un bucket S3.
 
 ## La idea central
 
