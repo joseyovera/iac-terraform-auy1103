@@ -92,7 +92,7 @@ Escribe `yes` cuando lo pida. Terraform borra los 18 recursos en el orden correc
 
 **¿Qué provider se está utilizando y cuál es su versión?**
 
-Se usa el provider `hashicorp/aws`, que es el que permite a Terraform hablar con AWS. Como el código no fija una versión, `terraform init` descarga la más reciente disponible. En la guía aparece la 3.37.0 porque es un ejemplo antiguo; en mi caso la versión fue: _(completar con la que muestre `terraform init`)_.
+Se usa el provider `hashicorp/aws`, que es el que permite a Terraform hablar con AWS. Como el código no fija una versión, `terraform init` descarga la más reciente disponible. En la guía aparece la 3.37.0 porque es un ejemplo antiguo; en mi caso la versión fue la **6.72.0**.
 
 **¿Cuántos tipos de recursos se pueden identificar en el plan?**
 
